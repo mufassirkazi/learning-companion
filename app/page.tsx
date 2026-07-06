@@ -152,14 +152,14 @@ export default function Home() {
   useEffect(() => {
     if (activeScreen !== "LOADING_UPLOAD") return;
 
-    setUploadProgressMessage("Reading your document...");
+    setUploadProgressMessage("Reading through...");
 
     const t1 = setTimeout(() => {
-      setUploadProgressMessage("Extracting key concepts...");
+      setUploadProgressMessage("Extracting key insights...");
     }, 2000);
 
     const t2 = setTimeout(() => {
-      setUploadProgressMessage("Creating quiz...");
+      setUploadProgressMessage("Creating...");
     }, 4500);
 
     return () => {
@@ -176,7 +176,7 @@ export default function Home() {
 
       setActiveScreen("LOADING_UPLOAD");
   setUploadProgressMessage("Preparing your results...");
-  
+
       const token = await getVerificationToken();
       if (!token) return;
 
