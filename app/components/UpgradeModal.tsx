@@ -62,7 +62,7 @@ export default function UpgradeModal({ isOpen, onClose }: UpgradeModalProps) {
     }}
   >
     <span className="text-4xl font-extrabold text-white">
-      $5
+      $1
     </span>
     <span className="font-medium text-[#B6B6B6]">
       /month
