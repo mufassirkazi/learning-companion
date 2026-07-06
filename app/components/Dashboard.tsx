@@ -55,7 +55,7 @@ export default function Dashboard({
             )}
           </h2>
           <p className="text-sm text-[#8A8F98] mt-1">
-            {isPro ? "Enjoy unlimited uploads and adaptive review!" : "Free Tier — 1 PDF Upload Limit"}
+            {isPro ? "Enjoy unlimited uploads and adaptive review!" : "Free Tier - 1 PDF Upload Limit"}
           </p>
         </div>
 
