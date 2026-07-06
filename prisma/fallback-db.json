@@ -1,0 +1,1444 @@
+{
+  "users": {
+    "user-test-nQUdTFASVuhe16slkWyQt": {
+      "id": "user-test-nQUdTFASVuhe16slkWyQt",
+      "email": "mufassirkazi@gmail.com",
+      "isPro": true
+    },
+    "user-test-tbzxEhPDIATgKXD1J5CBs": {
+      "id": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "email": "mufassirghulam@gmail.com",
+      "isPro": true
+    }
+  },
+  "quizzes": {
+    "f-quiz-jtctorh": {
+      "id": "f-quiz-jtctorh",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "1779543815156.pdf",
+      "score": 0,
+      "createdAt": "2026-06-27T15:35:29.477Z",
+      "questions": [
+        {
+          "id": "f-q-fbx88ss",
+          "questionText": "What is the closing balance of the account as of the statement date?",
+          "optionA": "Rs. 35,85,155.89",
+          "optionB": "Rs. 22,81,597.81",
+          "optionC": "Rs. 28,46,630.72",
+          "optionD": "Rs. 22,70,387.81",
+          "correctOption": "A",
+          "reasoning": "The closing balance is explicitly stated in the account statement as Rs. 35,85,155.89, which is confirmed in the text."
+        },
+        {
+          "id": "f-q-sc22a0u",
+          "questionText": "What was the account holder's name as recorded in the statement?",
+          "optionA": "MUFASSIR GHULAM RASOOL KAZI",
+          "optionB": "KAZI NOORJAHAN GHULAM",
+          "optionC": "MUFASSIR G R KAZI",
+          "optionD": "LATIF NAIK",
+          "correctOption": "A",
+          "reasoning": "The account holder's name is listed as 'MUFASSIR GHULAM RASOOL KAZI / KAZI NOORJAHAN GHULAM' in the statement, indicating the full name of the primary account holder."
+        },
+        {
+          "id": "f-q-f1pt7dx",
+          "questionText": "Which bank branch is associated with this account?",
+          "optionA": "MUMBAI MAZAGAON SSB",
+          "optionB": "MAZAGOAN SSB",
+          "optionC": "HDFC BANK",
+          "optionD": "CANARA BANK",
+          "correctOption": "A",
+          "reasoning": "The branch name is clearly stated as 'MUMBAI MAZAGAON SSB' in the account statement, making option A the correct answer."
+        },
+        {
+          "id": "f-q-55b36b9",
+          "questionText": "What type of account is being referred to in the statement?",
+          "optionA": "Savings Account",
+          "optionB": "Current Account",
+          "optionC": "Recurring Deposit Account",
+          "optionD": "Fixed Deposit Account",
+          "correctOption": "A",
+          "reasoning": "The account is identified as '101 - CANARA SB GENERAL', where 'SB' typically stands for 'Savings Bank', indicating that this is a Savings Account."
+        },
+        {
+          "id": "f-q-bhsnvq2",
+          "questionText": "What was the opening balance of the account as of the statement date?",
+          "optionA": "Rs. 22,81,597.81",
+          "optionB": "Rs. 35,85,155.89",
+          "optionC": "Rs. 28,26,855.72",
+          "optionD": "Rs. 22,70,387.81",
+          "correctOption": "A",
+          "reasoning": "The opening balance is clearly mentioned in the statement as Rs. 22,81,597.81, confirming option A as the correct answer."
+        }
+      ]
+    },
+    "f-quiz-w677csm": {
+      "id": "f-quiz-w677csm",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "Invoice (1).pdf",
+      "score": 1,
+      "createdAt": "2026-06-27T16:43:00.057Z",
+      "questions": [
+        {
+          "id": "f-q-0wo7j5u",
+          "questionText": "What is the invoice number mentioned in the document?",
+          "optionA": "001",
+          "optionB": "002",
+          "optionC": "00130",
+          "optionD": "00130/04/2026",
+          "correctOption": "D",
+          "reasoning": "The invoice number is formatted as '00130/04/2026', which includes both the invoice number and the date of issue."
+        },
+        {
+          "id": "f-q-ee4m2e4",
+          "questionText": "What is the total amount due on the invoice?",
+          "optionA": "$2,000",
+          "optionB": "$2,500",
+          "optionC": "$3,000",
+          "optionD": "$1,500",
+          "correctOption": "B",
+          "reasoning": "The invoice total is explicitly stated as 'US$ 2,500'."
+        },
+        {
+          "id": "f-q-6uqcin8",
+          "questionText": "What is the unit cost of the 'PAM - Phase 1 Design' listed on the invoice?",
+          "optionA": "$50",
+          "optionB": "$200",
+          "optionC": "$500",
+          "optionD": "$1,000",
+          "correctOption": "B",
+          "reasoning": "The unit cost for 'PAM - Phase 1 Design' is given as '50201,000', which indicates a unit cost of $200."
+        },
+        {
+          "id": "f-q-m04h88t",
+          "questionText": "What is the tax rate applied to the subtotal on the invoice?",
+          "optionA": "0%",
+          "optionB": "5%",
+          "optionC": "10%",
+          "optionD": "15%",
+          "correctOption": "A",
+          "reasoning": "The document states that the tax rate is 0%, which means no tax was applied to the subtotal."
+        },
+        {
+          "id": "f-q-jzkz27u",
+          "questionText": "Who is the beneficiary of the bank account provided in the invoice?",
+          "optionA": "Authentik Security",
+          "optionB": "Canara Bank",
+          "optionC": "Mufassir Ghulam Rasool Kazi",
+          "optionD": "Dockyard Rd, Mazgaon",
+          "correctOption": "C",
+          "reasoning": "The bank account details specify that the beneficiary name is 'MUFFASSIR GHULAM RASOOL KAZI'."
+        }
+      ]
+    },
+    "f-quiz-814d6pe": {
+      "id": "f-quiz-814d6pe",
+      "userId": "anon_bonpnsiiwgq",
+      "pdfName": "1779543898067.pdf",
+      "score": null,
+      "createdAt": "2026-06-29T13:05:01.755Z",
+      "questions": [
+        {
+          "id": "f-q-kdbw1oo",
+          "questionText": "What is the opening balance of the account as of 01 Mar 2026?",
+          "optionA": "Rs. 33,68,525.80",
+          "optionB": "Rs. 42,86,742.23",
+          "optionC": "Rs. 33,67,525.80",
+          "optionD": "Rs. 39,34,661.93",
+          "correctOption": "A",
+          "reasoning": "The opening balance is explicitly stated in the account statement as Rs. 33,68,525.80."
+        },
+        {
+          "id": "f-q-jfbh8pz",
+          "questionText": "Which transaction had the highest debit amount recorded?",
+          "optionA": "ATM Cash Withdrawal on 20 Mar 2026",
+          "optionB": "UPI transaction to MOHAMATHA on 20 Mar 2026",
+          "optionC": "NEFT Cr-HDFCH00844288798 on 05 Mar 2026",
+          "optionD": "UPI transaction to Akil Akil on 15 Mar 2026",
+          "correctOption": "B",
+          "reasoning": "The transaction on 20 Mar 2026 to MOHAMATHA had a debit amount of Rs. 40,000, which is the highest recorded in the statement."
+        },
+        {
+          "id": "f-q-noll7ih",
+          "questionText": "As of the closing date of 23 May 2026, what is the closing balance?",
+          "optionA": "Rs. 42,86,742.23",
+          "optionB": "Rs. 39,34,661.93",
+          "optionC": "Rs. 33,67,525.80",
+          "optionD": "Rs. 39,30,765.93",
+          "correctOption": "A",
+          "reasoning": "The closing balance is clearly stated in the account statement as Rs. 42,86,742.23."
+        },
+        {
+          "id": "f-q-s826zld",
+          "questionText": "Which branch is associated with the account holder?",
+          "optionA": "Mumbai Mazagaon SSB",
+          "optionB": "Mumbai Dockyard",
+          "optionC": "Mumbai Central",
+          "optionD": "Mumbai Main",
+          "correctOption": "A",
+          "reasoning": "The branch name is specified in the account statement as Mumbai Mazagaon SSB."
+        },
+        {
+          "id": "f-q-vw0kl7f",
+          "questionText": "What type of account is held by MUFASSIR G R KAZI?",
+          "optionA": "Current Account",
+          "optionB": "Savings Account",
+          "optionC": "Fixed Deposit Account",
+          "optionD": "Recurring Deposit Account",
+          "correctOption": "B",
+          "reasoning": "The product name listed in the statement is '101 - CANARA SB GENERAL', indicating it is a Savings Account."
+        }
+      ]
+    },
+    "f-quiz-jrkmoo5": {
+      "id": "f-quiz-jrkmoo5",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "1783063886647.pdf",
+      "score": 1,
+      "createdAt": "2026-07-04T10:44:04.785Z",
+      "questions": [
+        {
+          "id": "f-q-9uhk0os",
+          "questionText": "What is the account holder's full name as listed in the statement?",
+          "optionA": "MUFASSIR GHULAM RASOOL KAZI / KAZI NOORJAHAN GHULAM",
+          "optionB": "MUFASSIR G R KAZI",
+          "optionC": "LATIF NAIK HOUSE ROOM NO 14",
+          "optionD": "CANARA SB GENERAL",
+          "correctOption": "A",
+          "reasoning": "The account holder's full name is clearly stated in the account statement as 'MUFASSIR GHULAM RASOOL KAZI / KAZI NOORJAHAN GHULAM'. The other options refer to parts of the statement or incorrect names."
+        },
+        {
+          "id": "f-q-p7q1qnm",
+          "questionText": "What was the closing balance of the account as of 03-07-2026?",
+          "optionA": "Rs. 14,54,403.24",
+          "optionB": "Rs. 35,85,155.89",
+          "optionC": "Rs. 18,70,639.82",
+          "optionD": "Rs. 14,21,948.45",
+          "correctOption": "B",
+          "reasoning": "The closing balance is explicitly mentioned in the statement as 'Rs. 35,85,155.89'. The other options represent different amounts listed at various points in the statement."
+        },
+        {
+          "id": "f-q-t11belz",
+          "questionText": "Which transaction type appears most frequently in the statement?",
+          "optionA": "Credit Transactions",
+          "optionB": "Debit Transactions",
+          "optionC": "Cheque Transactions",
+          "optionD": "Transfer Transactions",
+          "correctOption": "B",
+          "reasoning": "The statement shows a higher frequency of debit transactions throughout the transaction history, indicating that funds were withdrawn or spent more frequently than they were deposited."
+        },
+        {
+          "id": "f-q-bgfg3dr",
+          "questionText": "What is the IFSC code provided in the account statement?",
+          "optionA": "CNRB0002668",
+          "optionB": "400015122",
+          "optionC": "103712794",
+          "optionD": "MUMBAI MAZAGAON SSB",
+          "correctOption": "A",
+          "reasoning": "The IFSC code is listed as 'CNRB0002668' in the account statement. The other options refer to different identifiers or codes within the document."
+        },
+        {
+          "id": "f-q-04ig4cr",
+          "questionText": "What was the opening balance recorded in the account statement?",
+          "optionA": "Rs. 35,85,155.89",
+          "optionB": "Rs. 14,54,403.24",
+          "optionC": "Rs. 18,70,639.82",
+          "optionD": "Rs. 14,21,948.45",
+          "correctOption": "B",
+          "reasoning": "The opening balance is clearly stated as 'Rs. 14,54,403.24' in the account statement. The other options are incorrect amounts that do not reflect the opening balance."
+        }
+      ]
+    },
+    "f-quiz-8glzr49": {
+      "id": "f-quiz-8glzr49",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "1783063857220.pdf",
+      "score": 1,
+      "createdAt": "2026-07-04T10:47:21.878Z",
+      "questions": [
+        {
+          "id": "f-q-12ajpx2",
+          "questionText": "What was the closing balance of the account as of 03-07-2026?",
+          "optionA": "Rs. 14,54,403.24",
+          "optionB": "Rs. 25,32,080.49",
+          "optionC": "Rs. 20,15,791.89",
+          "optionD": "Rs. 51,11,224.86",
+          "correctOption": "A",
+          "reasoning": "The closing balance of the account as stated in the account statement is Rs. 14,54,403.24, which is the correct answer."
+        },
+        {
+          "id": "f-q-s7q3wk0",
+          "questionText": "Which transaction type resulted in the largest debit on 04-04-2025?",
+          "optionA": "ATM / IMPS Transaction Charges",
+          "optionB": "UPI/DR",
+          "optionC": "IB-IMPS-DR",
+          "optionD": "UPI/REV",
+          "correctOption": "C",
+          "reasoning": "On 04-04-2025, the largest debit transaction was an IB-IMPS-DR for Rs. 5,00,000.00, making it the highest debit amount on that date."
+        },
+        {
+          "id": "f-q-z946jm8",
+          "questionText": "What is the IFSC code of the account?",
+          "optionA": "CNRB0002668",
+          "optionB": "400015122",
+          "optionC": "KKBK0000958",
+          "optionD": "DCBL0000030",
+          "correctOption": "A",
+          "reasoning": "The IFSC code provided in the account statement is CNRB0002668, which is necessary for electronic fund transfers."
+        },
+        {
+          "id": "f-q-yjro0a4",
+          "questionText": "What was the total amount debited on 05-04-2025?",
+          "optionA": "Rs. 1,39,000.00",
+          "optionB": "Rs. 1,19,000.00",
+          "optionC": "Rs. 2,20,000.00",
+          "optionD": "Rs. 1,71,000.00",
+          "correctOption": "A",
+          "reasoning": "On 05-04-2025, the total amount debited from the account was Rs. 1,39,000.00 from various transactions, including UPI payments."
+        },
+        {
+          "id": "f-q-ww6dq4u",
+          "questionText": "What is the branch name associated with the account?",
+          "optionA": "MUMBAI MAZAGAON SSB",
+          "optionB": "MAZAGOAN BRANCH",
+          "optionC": "MUMBAI CENTRAL",
+          "optionD": "KKBK BRANCH",
+          "correctOption": "A",
+          "reasoning": "The account is associated with the branch named MUMBAI MAZAGAON SSB, as indicated in the account statement."
+        }
+      ]
+    },
+    "f-quiz-oe3eyv4": {
+      "id": "f-quiz-oe3eyv4",
+      "userId": "anon_5q8e2b4xts3",
+      "pdfName": "DocScanner 04-Jul-2026 03-04 PM.pdf",
+      "score": null,
+      "createdAt": "2026-07-04T11:02:54.945Z",
+      "questions": [
+        {
+          "id": "f-q-4dorhbz",
+          "questionText": "What is the primary function of DocScanner?",
+          "optionA": "To edit documents",
+          "optionB": "To scan and digitize physical documents",
+          "optionC": "To create PDFs from images",
+          "optionD": "To send documents via email",
+          "correctOption": "B",
+          "reasoning": "DocScanner is designed to scan and digitize physical documents, converting them into digital formats for easier storage and sharing."
+        },
+        {
+          "id": "f-q-18ujauy",
+          "questionText": "Which feature is commonly associated with advanced DocScanner applications?",
+          "optionA": "Voice recognition",
+          "optionB": "Optical Character Recognition (OCR)",
+          "optionC": "Video editing capabilities",
+          "optionD": "3D modeling",
+          "correctOption": "B",
+          "reasoning": "Optical Character Recognition (OCR) is a key feature of many DocScanner applications, allowing them to convert scanned images of text into editable and searchable text."
+        },
+        {
+          "id": "f-q-zeygtqg",
+          "questionText": "In which scenario would using DocScanner be most beneficial?",
+          "optionA": "When creating a presentation",
+          "optionB": "When needing to digitize a large number of receipts",
+          "optionC": "When editing a video file",
+          "optionD": "When designing a website",
+          "correctOption": "B",
+          "reasoning": "DocScanner is particularly useful for digitizing a large number of physical documents, such as receipts, making it easier to manage and organize them."
+        },
+        {
+          "id": "f-q-uk7emv1",
+          "questionText": "What is a common output format for documents scanned with DocScanner?",
+          "optionA": "JPEG",
+          "optionB": "MP4",
+          "optionC": "PDF",
+          "optionD": "DOCX",
+          "correctOption": "C",
+          "reasoning": "PDF is a common output format for scanned documents because it preserves the formatting and is widely used for sharing and printing."
+        },
+        {
+          "id": "f-q-5dwy96t",
+          "questionText": "Which of the following is NOT typically a feature of a DocScanner app?",
+          "optionA": "Document sharing",
+          "optionB": "Photo enhancement",
+          "optionC": "Document organization",
+          "optionD": "Game development",
+          "correctOption": "D",
+          "reasoning": "Game development is not a feature associated with DocScanner apps, which focus on document management and digitization tools, not gaming functionalities."
+        }
+      ]
+    },
+    "f-quiz-u3s6gg2": {
+      "id": "f-quiz-u3s6gg2",
+      "userId": "anon_d17grcm36je",
+      "pdfName": "260KB.pdf",
+      "score": 0,
+      "createdAt": "2026-07-04T19:35:14.021Z",
+      "questions": [
+        {
+          "id": "f-q-bscbp7s",
+          "questionText": "What does the phrase 'Lorem ipsum dolor sit amet' typically signify in text?",
+          "optionA": "It is a commonly used placeholder text.",
+          "optionB": "It is a famous poem.",
+          "optionC": "It is a programming language.",
+          "optionD": "It represents a legal document.",
+          "correctOption": "A",
+          "reasoning": "The phrase 'Lorem ipsum dolor sit amet' is widely recognized as a standard filler text used in the publishing and web design industries to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        },
+        {
+          "id": "f-q-r7la5ea",
+          "questionText": "Which of the following best describes the purpose of using 'Lorem ipsum' in design?",
+          "optionA": "To provide meaningful content for the reader.",
+          "optionB": "To create a visually appealing layout without distraction from the content.",
+          "optionC": "To convey complex legal information.",
+          "optionD": "To serve as a template for programming languages.",
+          "correctOption": "B",
+          "reasoning": "'Lorem ipsum' is used to create a visual representation of the layout of a page or design, allowing designers to focus on aesthetics without the distraction of actual content."
+        },
+        {
+          "id": "f-q-el16g30",
+          "questionText": "In the text provided, which term refers to a type of structure in design?",
+          "optionA": "Faucibus",
+          "optionB": "Vestibulum",
+          "optionC": "Pulvinar",
+          "optionD": "Ac",
+          "correctOption": "B",
+          "reasoning": "In design terminology, 'vestibulum' can refer to an introductory space or area, often used to describe the layout and flow of content within a design."
+        },
+        {
+          "id": "f-q-ylyfigv",
+          "questionText": "Which of the following phrases signifies a transition or connection between ideas in the text?",
+          "optionA": "Ut sem viverra aliquet",
+          "optionB": "Id venenatis a condimentum",
+          "optionC": "Elit eget gravida cum sociis",
+          "optionD": "Nisl tincidunt eget nullam",
+          "correctOption": "C",
+          "reasoning": "The phrase 'Elit eget gravida cum sociis' suggests a connection to social structures, indicating a transition in thought that relates to collaboration or community."
+        },
+        {
+          "id": "f-q-3h25b68",
+          "questionText": "What is the primary characteristic of the writing style used in the text?",
+          "optionA": "It uses complex and technical language.",
+          "optionB": "It is straightforward and concise.",
+          "optionC": "It is filled with jargon and specialized terms.",
+          "optionD": "It is designed to be nonsensical and abstract.",
+          "correctOption": "D",
+          "reasoning": "The writing style in the provided text is intentionally nonsensical and abstract, serving as a placeholder text rather than conveying clear information or ideas."
+        }
+      ]
+    },
+    "f-quiz-3vqr06q": {
+      "id": "f-quiz-3vqr06q",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "The-Tell-Tale-Heart-by-Edgar-Allan-Poe-book-PDF.pdf",
+      "score": 0,
+      "createdAt": "2026-07-05T10:57:47.245Z",
+      "questions": [
+        {
+          "id": "f-q-71ljefc",
+          "questionText": "What motivates the narrator to kill the old man?",
+          "optionA": "A desire for the old man's gold",
+          "optionB": "The old man's personality",
+          "optionC": "The old man's vulture-like eye",
+          "optionD": "Madness from a mental illness",
+          "correctOption": "C",
+          "reasoning": "The narrator explicitly states that it is not the old man himself or any personal grievance that drives him to murder; rather, it is the old man's eye, which he describes as resembling that of a vulture, that torments him and leads him to the conclusion that he must kill the old man."
+        },
+        {
+          "id": "f-q-f0cfag8",
+          "questionText": "How does the narrator attempt to conceal his actions while observing the old man?",
+          "optionA": "By disguising himself as the old man",
+          "optionB": "By using a dark lantern and being extremely cautious",
+          "optionC": "By making loud noises to distract the old man",
+          "optionD": "By pretending to befriend the old man",
+          "correctOption": "B",
+          "reasoning": "The narrator describes in detail how he uses a closed dark lantern to avoid detection and how he proceeds cautiously, ensuring that he does not disturb the old man's sleep, which demonstrates his careful planning and execution of his intentions."
+        },
+        {
+          "id": "f-q-0ne8gwu",
+          "questionText": "What sound ultimately drives the narrator to reveal his actions?",
+          "optionA": "The old man's screams",
+          "optionB": "The ticking of a clock",
+          "optionC": "The old man's heart beating",
+          "optionD": "The sound of the lantern creaking",
+          "correctOption": "C",
+          "reasoning": "The narrator becomes increasingly agitated by the sound of the old man's heart beating, which he describes as growing louder and louder, causing him uncontrollable terror and ultimately prompting him to reveal the body by throwing open the lantern."
+        },
+        {
+          "id": "f-q-exrroft",
+          "questionText": "What theme is prominently explored through the narrator's actions and thoughts?",
+          "optionA": "The conflict between love and hate",
+          "optionB": "The nature of guilt and madness",
+          "optionC": "The struggle for power",
+          "optionD": "The search for identity",
+          "correctOption": "B",
+          "reasoning": "The story delves deep into the themes of guilt and madness, particularly through the narrator's rationalizations and his acute senses that he believes set him apart. His mental state deteriorates as he becomes consumed by guilt, illustrated by his obsessive focus on the old man's heart."
+        },
+        {
+          "id": "f-q-0l6bfp4",
+          "questionText": "How does the narrator justify his actions to the reader?",
+          "optionA": "By claiming he was provoked by the old man",
+          "optionB": "By stating that he acted out of madness",
+          "optionC": "By arguing that he was cautious and wise in his planning",
+          "optionD": "By emphasizing the old man's cruelty",
+          "correctOption": "C",
+          "reasoning": "The narrator insists that what may appear as madness is actually the result of heightened senses and careful planning, presenting his actions as wise and calculated rather than impulsive or irrational, which serves to create an unsettling contrast between his self-perception and reality."
+        }
+      ]
+    },
+    "f-quiz-ywggysa": {
+      "id": "f-quiz-ywggysa",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "The-Tell-Tale-Heart-by-Edgar-Allan-Poe-book-PDF.pdf",
+      "score": 0,
+      "createdAt": "2026-07-05T20:38:12.490Z",
+      "questions": [
+        {
+          "id": "f-q-fkpt3g2",
+          "questionText": "What is the primary source of the narrator's obsession leading to the old man's murder?",
+          "optionA": "The old man's wealth",
+          "optionB": "The old man's eye",
+          "optionC": "The old man's personality",
+          "optionD": "The old man's voice",
+          "correctOption": "B",
+          "reasoning": "The narrator is fixated on the old man's eye, which he describes as resembling that of a vulture. This 'Evil Eye' drives him to madness and ultimately leads him to commit murder, despite having no ill feelings towards the old man himself."
+        },
+        {
+          "id": "f-q-do373dh",
+          "questionText": "What does the narrator claim about his sanity?",
+          "optionA": "He believes he is completely sane.",
+          "optionB": "He admits to being mad.",
+          "optionC": "He is unsure about his mental state.",
+          "optionD": "He claims madmen know everything.",
+          "correctOption": "A",
+          "reasoning": "The narrator insists that he is not mad but rather suffers from a heightened sense of hearing, which he believes sharpens his senses rather than dulls them. This contradiction highlights the complexity of his character and the theme of madness in the story."
+        },
+        {
+          "id": "f-q-afcrpyo",
+          "questionText": "How does the narrator describe the old man's reaction to the sounds he hears?",
+          "optionA": "He dismisses them as nothing.",
+          "optionB": "He becomes excited and happy.",
+          "optionC": "He is filled with mortal terror.",
+          "optionD": "He falls asleep immediately.",
+          "correctOption": "C",
+          "reasoning": "The narrator notes that the old man experiences a groan of mortal terror, which indicates deep fear and anxiety. This reaction is significant as it highlights the psychological tension present in the story and the old man's vulnerability."
+        },
+        {
+          "id": "f-q-adu64kg",
+          "questionText": "What ultimately drives the narrator to reveal his crime?",
+          "optionA": "The arrival of the police.",
+          "optionB": "The old man's ghost.",
+          "optionC": "The sound of the old man's heart.",
+          "optionD": "His own guilt.",
+          "correctOption": "C",
+          "reasoning": "The narrator becomes increasingly overwhelmed by the sound of the old man's heart, which he perceives as growing louder and louder. This sound symbolizes his guilt and leads him to a breaking point where he can no longer contain his actions, ultimately confessing to the murder."
+        },
+        {
+          "id": "f-q-w0840kg",
+          "questionText": "What literary device is predominantly used in the story to convey the narrator's state of mind?",
+          "optionA": "Foreshadowing",
+          "optionB": "Symbolism",
+          "optionC": "Stream of consciousness",
+          "optionD": "Metaphor",
+          "correctOption": "C",
+          "reasoning": "The story employs a stream of consciousness technique, allowing readers to experience the narrator's thoughts and emotions in real-time. This device effectively illustrates his madness and the internal conflict he faces, creating a sense of immediacy and tension throughout the narrative."
+        }
+      ]
+    },
+    "f-quiz-csgbzfq": {
+      "id": "f-quiz-csgbzfq",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "WQnoW6oqZQc2F4D44Y6MR5 (2).pdf",
+      "score": 0,
+      "createdAt": "2026-07-05T21:04:55.138Z",
+      "questions": [
+        {
+          "id": "f-q-80j63j1",
+          "questionText": "What emotional characteristic is primarily associated with individuals described under Aethusa cynapium?",
+          "optionA": "They express their emotions freely.",
+          "optionB": "They feel intense emotions but do not express them easily.",
+          "optionC": "They are indifferent to their emotional experiences.",
+          "optionD": "They often cry openly and seek attention.",
+          "correctOption": "B",
+          "reasoning": "Individuals described under Aethusa cynapium are noted for feeling intense emotions internally but struggle to express them outwardly. This characteristic sets them apart from others, such as those described under Ignatia, who might also feel intense emotions but express them differently."
+        },
+        {
+          "id": "f-q-tsagqio",
+          "questionText": "Which symptom is NOT associated with Aethusa cynapium?",
+          "optionA": "Fear of closing eyes lest they should never wake.",
+          "optionB": "Irritability before menstruation.",
+          "optionC": "Desire for sweet fruits.",
+          "optionD": "Salivation during sleep.",
+          "correctOption": "C",
+          "reasoning": "Aethusa cynapium individuals have specific cravings, including averse reactions to fruits, particularly sweet ones. Therefore, the desire for sweet fruits is not a symptom associated with them."
+        },
+        {
+          "id": "f-q-idqdyff",
+          "questionText": "What is a major anxiety-related symptom of Agaricus muscarius?",
+          "optionA": "Complete indifference to health.",
+          "optionB": "Anxiety about health that drives them to extreme pessimism.",
+          "optionC": "Joyful disposition despite health concerns.",
+          "optionD": "Fear of traveling away from home.",
+          "correctOption": "B",
+          "reasoning": "Agaricus muscarius individuals exhibit significant anxiety about their health, leading to an exaggerated sense of worry over minor health concerns, which can escalate into severe pessimism."
+        },
+        {
+          "id": "f-q-wcg5g8h",
+          "questionText": "What unique behavioral trait is observed in individuals taking Agaricus muscarius?",
+          "optionA": "They often engage in physical activities.",
+          "optionB": "They have out-of-body experiences.",
+          "optionC": "They maintain a consistent optimism.",
+          "optionD": "They avoid all social interactions.",
+          "correctOption": "B",
+          "reasoning": "Agaricus muscarius is characterized by individuals who may experience out-of-body experiences, distinguishing them from those with more grounded emotional responses."
+        },
+        {
+          "id": "f-q-c917pmm",
+          "questionText": "Which of the following remedies is associated with a strong aversion to eggs?",
+          "optionA": "Aethusa cynapium",
+          "optionB": "Agaricus muscarius",
+          "optionC": "Agnus castus",
+          "optionD": "Alumina",
+          "correctOption": "B",
+          "reasoning": "Agaricus muscarius individuals have a noted aversion to eggs, which is part of their unique symptom profile, distinguishing them from other remedies that may have different aversions."
+        }
+      ]
+    },
+    "f-quiz-padxedj": {
+      "id": "f-quiz-padxedj",
+      "userId": "anon_81t106alg4s",
+      "pdfName": "WQnoW6oqZQc2F4D44Y6MR5 (1).pdf",
+      "score": 3,
+      "createdAt": "2026-07-06T09:21:45.565Z",
+      "questions": [
+        {
+          "id": "f-q-v9qjy31",
+          "questionText": "What is a common emotional characteristic of individuals described under Aethusa cynapium?",
+          "optionA": "They express strong emotions openly.",
+          "optionB": "They feel emotions intensely but do not express them easily.",
+          "optionC": "They avoid emotional interactions completely.",
+          "optionD": "They are indifferent to their emotions.",
+          "correctOption": "B",
+          "reasoning": "Individuals described under Aethusa cynapium are characterized by having strong emotions that they do not easily express, feeling intense emotions internally without showing them outwardly."
+        },
+        {
+          "id": "f-q-nbjeqg8",
+          "questionText": "Which remedy is associated with significant anxiety about health and hypochondriacal tendencies?",
+          "optionA": "Aethusa cynapium",
+          "optionB": "Agaricus muscarius",
+          "optionC": "Agnus castus",
+          "optionD": "Nux vomica",
+          "correctOption": "B",
+          "reasoning": "Agaricus muscarius is noted for causing anxiety about health, leading individuals to obsess over minor health concerns and become pessimistic."
+        },
+        {
+          "id": "f-q-0azb597",
+          "questionText": "What peculiar behavior is noted among individuals of Aethusa cynapium during sleep?",
+          "optionA": "They often sleepwalk.",
+          "optionB": "They experience night terrors.",
+          "optionC": "They have frequent nightmares.",
+          "optionD": "They talk loudly in their sleep.",
+          "correctOption": "A",
+          "reasoning": "Individuals of Aethusa cynapium often exhibit sleepwalking, which is described as an expression of their intense emotional state during sleep."
+        },
+        {
+          "id": "f-q-q5uu5tv",
+          "questionText": "What type of food cravings are associated with individuals under Aethusa cynapium?",
+          "optionA": "They crave fruits.",
+          "optionB": "They crave cheese and farinaceous food.",
+          "optionC": "They crave spicy foods.",
+          "optionD": "They have no specific food cravings.",
+          "correctOption": "B",
+          "reasoning": "Individuals of Aethusa cynapium are noted for craving cheese and farinaceous foods, while having an aversion to fruits."
+        },
+        {
+          "id": "f-q-ebznt7j",
+          "questionText": "How do individuals described under Agaricus muscarius typically react to suggestions from doctors?",
+          "optionA": "They dismiss them without concern.",
+          "optionB": "They become anxious and overly concerned about the implications.",
+          "optionC": "They follow the advice without question.",
+          "optionD": "They feel empowered by the suggestions.",
+          "correctOption": "B",
+          "reasoning": "Individuals described under Agaricus muscarius often react with heightened anxiety to doctor's suggestions, interpreting them as significant threats to their health."
+        }
+      ]
+    },
+    "f-quiz-knsfl06": {
+      "id": "f-quiz-knsfl06",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "Mustafa Murtaza Resume (1).pdf",
+      "score": 0,
+      "createdAt": "2026-07-06T10:43:23.164Z",
+      "questions": [
+        {
+          "id": "f-q-16j7t1q",
+          "questionText": "What is the primary role of Murtaza Mustafa at Growth Theory?",
+          "optionA": "CEO / Founder",
+          "optionB": "Chief Marketing Officer",
+          "optionC": "Lead Designer",
+          "optionD": "Senior Consultant",
+          "correctOption": "A",
+          "reasoning": "Murtaza Mustafa is identified as the CEO and Founder of Growth Theory, indicating his primary role is leadership and overall management of the company."
+        },
+        {
+          "id": "f-q-fwwnf2c",
+          "questionText": "Which industries does Growth Theory primarily focus on?",
+          "optionA": "Retail, Automotive, and Real Estate",
+          "optionB": "Edtech, Healthcare, and Fintech",
+          "optionC": "Entertainment, Sports, and Agriculture",
+          "optionD": "Fashion, Food, and Tourism",
+          "correctOption": "B",
+          "reasoning": "The text specifies that Growth Theory has a strong focus on Edtech, Healthcare, and Fintech companies, highlighting these as its primary industry sectors."
+        },
+        {
+          "id": "f-q-m0xe82x",
+          "questionText": "What type of training program did Murtaza Mustafa deliver to over 20,000 students?",
+          "optionA": "Interactive goal setting program",
+          "optionB": "Digital marketing workshop",
+          "optionC": "Entrepreneurship seminar",
+          "optionD": "Presentation skills course",
+          "correctOption": "A",
+          "reasoning": "Murtaza Mustafa created and delivered an interactive goal setting program under the banner of Talabulilum, which was attended by over 20,000 students."
+        },
+        {
+          "id": "f-q-gsk9tt8",
+          "questionText": "What services does RAABTA provide?",
+          "optionA": "Corporate training and development",
+          "optionB": "Design service agency for invitation collaterals",
+          "optionC": "Digital marketing consultancy",
+          "optionD": "Technical support for businesses",
+          "correctOption": "B",
+          "reasoning": "RAABTA is described as a premium design service agency specializing in invitation collaterals, including wedding cards, birthday invitations, and more."
+        },
+        {
+          "id": "f-q-w5d8da8",
+          "questionText": "What educational background does Murtaza Mustafa have?",
+          "optionA": "Bachelor's in Business Administration",
+          "optionB": "Bachelor's in Mass Media",
+          "optionC": "Master's in Marketing",
+          "optionD": "Master's in Communications",
+          "correctOption": "B",
+          "reasoning": "Murtaza Mustafa holds a Bachelor's degree in Mass Media, which is mentioned as part of his educational credentials."
+        }
+      ]
+    },
+    "f-quiz-uuwbv5b": {
+      "id": "f-quiz-uuwbv5b",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "pdfName": "1783063886647.pdf",
+      "score": 0,
+      "createdAt": "2026-07-06T11:43:02.820Z",
+      "questions": [
+        {
+          "id": "f-q-2s6dv8g",
+          "questionText": "What is the opening balance stated in the account statement?",
+          "optionA": "Rs. 14,54,403.24",
+          "optionB": "Rs. 35,85,155.89",
+          "optionC": "Rs. 19,14,066.96",
+          "optionD": "Rs. 18,71,839.82",
+          "correctOption": "A",
+          "reasoning": "The opening balance stated in the account statement is Rs. 14,54,403.24, which is explicitly listed at the beginning of the statement."
+        },
+        {
+          "id": "f-q-u88exbw",
+          "questionText": "Which transaction resulted in the highest debit on the account?",
+          "optionA": "UPI/DR/528101360824/Amazon In",
+          "optionB": "UPI/DR/529074519368/AZIZ REHA",
+          "optionC": "By Clg:MUM CLG SEC-HDFC BANK LTD.",
+          "optionD": "UPI/DR/528151951531/SWIGGY",
+          "correctOption": "C",
+          "reasoning": "The transaction 'By Clg:MUM CLG SEC-HDFC BANK LTD., D' resulted in a debit of Rs. 1365,00,000.00, which is the highest debit recorded in the statement."
+        },
+        {
+          "id": "f-q-fo3twit",
+          "questionText": "What is the account currency mentioned in the statement?",
+          "optionA": "USD",
+          "optionB": "INR",
+          "optionC": "EUR",
+          "optionD": "GBP",
+          "correctOption": "B",
+          "reasoning": "The account currency mentioned in the statement is INR (Indian Rupee), as indicated clearly in the account details."
+        },
+        {
+          "id": "f-q-p6hy29h",
+          "questionText": "What is the IFSC code provided in the account statement?",
+          "optionA": "CNRB0002668",
+          "optionB": "400015122",
+          "optionC": "MUMBAI MAZAGAON SSB",
+          "optionD": "CNRB0012345",
+          "correctOption": "A",
+          "reasoning": "The IFSC code provided in the account statement is CNRB0002668, which is used for electronic funds transfer in India."
+        },
+        {
+          "id": "f-q-9nwfnmd",
+          "questionText": "What was the closing balance as of the statement date?",
+          "optionA": "Rs. 14,52,403.24",
+          "optionB": "Rs. 35,85,155.89",
+          "optionC": "Rs. 18,71,839.82",
+          "optionD": "Rs. 19,14,066.96",
+          "correctOption": "B",
+          "reasoning": "The closing balance as of the statement date is Rs. 35,85,155.89, which is clearly stated at the end of the balance summary."
+        }
+      ]
+    },
+    "f-quiz-7oapdyb": {
+      "id": "f-quiz-7oapdyb",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "pdfName": "WQnoW6oqZQc2F4D44Y6MR5 (2).pdf",
+      "score": 0,
+      "createdAt": "2026-07-06T12:37:11.545Z",
+      "questions": [
+        {
+          "id": "f-q-u14gpym",
+          "questionText": "What is a key emotional characteristic of individuals who may benefit from Acethusa cynapium?",
+          "optionA": "They express their emotions openly and easily.",
+          "optionB": "They live happily by themselves but enjoy company.",
+          "optionC": "They have no fears related to darkness.",
+          "optionD": "They prefer to avoid all interactions with animals.",
+          "correctOption": "B",
+          "reasoning": "Individuals benefiting from Acethusa cynapium enjoy their own company but can also socialize, indicating a balance between introversion and social interaction."
+        },
+        {
+          "id": "f-q-3usc29t",
+          "questionText": "What symptom is commonly associated with Agaricus muscarius?",
+          "optionA": "Euphoria without any underlying anxiety.",
+          "optionB": "Anxiety about health that escalates to pessimism.",
+          "optionC": "A strong aversion to social situations.",
+          "optionD": "Complete detachment from physical sensations.",
+          "correctOption": "B",
+          "reasoning": "Agaricus muscarius individuals often experience escalating anxiety about health, leading to pessimism and a desire to seek medical attention."
+        },
+        {
+          "id": "f-q-4819zx6",
+          "questionText": "Which of the following is a notable fear experienced by those needing Acethusa cynapium?",
+          "optionA": "Fear of being alone in the dark.",
+          "optionB": "Fear of not waking up after an operation.",
+          "optionC": "Fear of heights.",
+          "optionD": "Fear of public speaking.",
+          "correctOption": "B",
+          "reasoning": "A notable fear associated with Acethusa cynapium is the fear of not waking up after an operation, showing a deep-seated anxiety related to sleep and consciousness."
+        },
+        {
+          "id": "f-q-h730fj9",
+          "questionText": "What dietary preference is noted for individuals who resonate with Acethusa cynapium?",
+          "optionA": "They have a strong craving for fruits.",
+          "optionB": "They prefer spicy foods.",
+          "optionC": "They crave cheese and farinaceous food.",
+          "optionD": "They only consume liquids.",
+          "correctOption": "C",
+          "reasoning": "Individuals who resonate with Acethusa cynapium often have cravings for cheese and farinaceous foods, indicating specific dietary preferences."
+        },
+        {
+          "id": "f-q-c5xj6cr",
+          "questionText": "How do individuals associated with Agaricus muscarius typically react to medical suggestions?",
+          "optionA": "They dismiss them entirely.",
+          "optionB": "They become overly anxious about them.",
+          "optionC": "They ignore any physical symptoms.",
+          "optionD": "They exhibit extreme confidence in their health.",
+          "correctOption": "B",
+          "reasoning": "Individuals associated with Agaricus muscarius often become overly anxious about medical suggestions, leading to irrational fears and heightened health anxiety."
+        }
+      ]
+    }
+  },
+  "userAnswers": [
+    {
+      "id": "f-ua-ts1w6hf",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fbx88ss",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-06-27T16:27:27.304Z"
+    },
+    {
+      "id": "f-ua-2nu0snt",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-sc22a0u",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-06-27T16:27:27.304Z"
+    },
+    {
+      "id": "f-ua-9x4945y",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-f1pt7dx",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T16:27:27.304Z"
+    },
+    {
+      "id": "f-ua-rxt24qk",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-55b36b9",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-06-27T16:27:27.304Z"
+    },
+    {
+      "id": "f-ua-0i7ubyv",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-bhsnvq2",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-06-27T16:27:27.304Z"
+    },
+    {
+      "id": "f-ua-2a7mz1y",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T16:43:51.662Z"
+    },
+    {
+      "id": "f-ua-95sh1eq",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-ee4m2e4",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T16:43:51.662Z"
+    },
+    {
+      "id": "f-ua-ao2pfn4",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-6uqcin8",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-06-27T16:43:51.662Z"
+    },
+    {
+      "id": "f-ua-89i73yf",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-m04h88t",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T16:43:51.662Z"
+    },
+    {
+      "id": "f-ua-i8qccng",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-jzkz27u",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T16:43:51.662Z"
+    },
+    {
+      "id": "f-ua-5jc93q1",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-06-27T17:02:22.993Z"
+    },
+    {
+      "id": "f-ua-ev3txx8",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-06-29T13:00:55.448Z"
+    },
+    {
+      "id": "f-ua-v77zk60",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-06-29T13:01:41.994Z"
+    },
+    {
+      "id": "f-ua-z106ett",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-06-29T13:07:01.249Z"
+    },
+    {
+      "id": "f-ua-61028hq",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "D",
+      "isCorrect": true,
+      "createdAt": "2026-06-29T13:08:47.699Z"
+    },
+    {
+      "id": "f-ua-s7m5ywo",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0wo7j5u",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:41:27.916Z"
+    },
+    {
+      "id": "f-ua-ulhl6ln",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-9uhk0os",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-04T10:46:52.552Z"
+    },
+    {
+      "id": "f-ua-nyksjl3",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-p7q1qnm",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:46:52.552Z"
+    },
+    {
+      "id": "f-ua-brcgfx5",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-t11belz",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:46:52.552Z"
+    },
+    {
+      "id": "f-ua-va3uoys",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-bgfg3dr",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:46:52.552Z"
+    },
+    {
+      "id": "f-ua-rkrm0hg",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-04ig4cr",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:46:52.552Z"
+    },
+    {
+      "id": "f-ua-qtyuicp",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-12ajpx2",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-04T10:47:30.278Z"
+    },
+    {
+      "id": "f-ua-jidbnb3",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-s7q3wk0",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:47:30.278Z"
+    },
+    {
+      "id": "f-ua-8id7151",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-z946jm8",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:47:30.278Z"
+    },
+    {
+      "id": "f-ua-zyylc77",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-yjro0a4",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:47:30.278Z"
+    },
+    {
+      "id": "f-ua-4xw47e3",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-ww6dq4u",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T10:47:30.278Z"
+    },
+    {
+      "id": "f-ua-uonowyh",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-s7q3wk0",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T11:02:36.914Z"
+    },
+    {
+      "id": "f-ua-yivjk08",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-s7q3wk0",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T11:03:58.532Z"
+    },
+    {
+      "id": "f-ua-31mplst",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-s7q3wk0",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-04T19:34:40.943Z"
+    },
+    {
+      "id": "f-ua-18tfdln",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-s7q3wk0",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T10:57:21.331Z"
+    },
+    {
+      "id": "f-ua-pxx7b3i",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-71ljefc",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T10:58:35.371Z"
+    },
+    {
+      "id": "f-ua-s3s1ucf",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-f0cfag8",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T10:58:35.371Z"
+    },
+    {
+      "id": "f-ua-b8nebqk",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0ne8gwu",
+      "selectedOption": "C",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T10:58:35.371Z"
+    },
+    {
+      "id": "f-ua-hqcsp09",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-exrroft",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T10:58:35.371Z"
+    },
+    {
+      "id": "f-ua-wgx8ted",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0l6bfp4",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T10:58:35.371Z"
+    },
+    {
+      "id": "f-ua-rar5zor",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-71ljefc",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T11:24:34.811Z"
+    },
+    {
+      "id": "f-ua-zhh1dwk",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-71ljefc",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T20:39:33.698Z"
+    },
+    {
+      "id": "f-ua-ug0t03p",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fkpt3g2",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T20:46:57.157Z"
+    },
+    {
+      "id": "f-ua-fm4vbh1",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-do373dh",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T20:46:57.157Z"
+    },
+    {
+      "id": "f-ua-pwfpzbn",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-afcrpyo",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T20:46:57.157Z"
+    },
+    {
+      "id": "f-ua-5mtsvmn",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-adu64kg",
+      "selectedOption": "C",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T20:46:57.157Z"
+    },
+    {
+      "id": "f-ua-ksw0oby",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-w0840kg",
+      "selectedOption": "C",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T20:46:57.157Z"
+    },
+    {
+      "id": "f-ua-flu9tpi",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fkpt3g2",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T20:51:06.950Z"
+    },
+    {
+      "id": "f-ua-67lilow",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fkpt3g2",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T20:57:37.526Z"
+    },
+    {
+      "id": "f-ua-p7dqy41",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-80j63j1",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T21:05:12.546Z"
+    },
+    {
+      "id": "f-ua-e6gcg1x",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-tsagqio",
+      "selectedOption": "C",
+      "isCorrect": true,
+      "createdAt": "2026-07-05T21:05:12.546Z"
+    },
+    {
+      "id": "f-ua-of1mf57",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-idqdyff",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T21:05:12.546Z"
+    },
+    {
+      "id": "f-ua-26fm7bw",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-wcg5g8h",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T21:05:12.546Z"
+    },
+    {
+      "id": "f-ua-tbx1jyj",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-c917pmm",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-05T21:05:12.546Z"
+    },
+    {
+      "id": "f-ua-m7rhuon",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-80j63j1",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:41:23.526Z"
+    },
+    {
+      "id": "f-ua-a2p7qhw",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-v9qjy31",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T10:42:38.029Z"
+    },
+    {
+      "id": "f-ua-avcu6ax",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-nbjeqg8",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T10:42:38.029Z"
+    },
+    {
+      "id": "f-ua-8rgod25",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-0azb597",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T10:42:38.029Z"
+    },
+    {
+      "id": "f-ua-vts7jd5",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-q5uu5tv",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:42:38.029Z"
+    },
+    {
+      "id": "f-ua-xwljm9s",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-ebznt7j",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:42:38.029Z"
+    },
+    {
+      "id": "f-ua-t5v6w3w",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-16j7t1q",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T10:44:00.866Z"
+    },
+    {
+      "id": "f-ua-umuy2j8",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fwwnf2c",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T10:44:00.866Z"
+    },
+    {
+      "id": "f-ua-74dz74w",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-m0xe82x",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:44:00.866Z"
+    },
+    {
+      "id": "f-ua-032z38z",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-gsk9tt8",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:44:00.866Z"
+    },
+    {
+      "id": "f-ua-mqc1hxi",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-w5d8da8",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T10:44:00.866Z"
+    },
+    {
+      "id": "f-ua-2zcvb9l",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-m0xe82x",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T11:34:28.998Z"
+    },
+    {
+      "id": "f-ua-bplrlm0",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-2s6dv8g",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T11:43:25.224Z"
+    },
+    {
+      "id": "f-ua-srnn7xm",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-u88exbw",
+      "selectedOption": "C",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T11:43:25.224Z"
+    },
+    {
+      "id": "f-ua-rmvbatv",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-fo3twit",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T11:43:25.224Z"
+    },
+    {
+      "id": "f-ua-nkxog7p",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-p6hy29h",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T11:43:25.224Z"
+    },
+    {
+      "id": "f-ua-smrq8kc",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-9nwfnmd",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T11:43:25.224Z"
+    },
+    {
+      "id": "f-ua-ua16h7x",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-2s6dv8g",
+      "selectedOption": "A",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T12:26:06.160Z"
+    },
+    {
+      "id": "f-ua-999s0wu",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-2s6dv8g",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:31:36.370Z"
+    },
+    {
+      "id": "f-ua-b5wyntk",
+      "userId": "user-test-nQUdTFASVuhe16slkWyQt",
+      "questionId": "f-q-2s6dv8g",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:36:20.092Z"
+    },
+    {
+      "id": "f-ua-yoyz0zz",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-u14gpym",
+      "selectedOption": "A",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:39:25.332Z"
+    },
+    {
+      "id": "f-ua-hb9v88c",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-3usc29t",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:39:25.332Z"
+    },
+    {
+      "id": "f-ua-g10rske",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-4819zx6",
+      "selectedOption": "C",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:39:25.332Z"
+    },
+    {
+      "id": "f-ua-07bzcbe",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-h730fj9",
+      "selectedOption": "B",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:39:25.332Z"
+    },
+    {
+      "id": "f-ua-8fovz19",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-c5xj6cr",
+      "selectedOption": "D",
+      "isCorrect": false,
+      "createdAt": "2026-07-06T12:39:25.332Z"
+    },
+    {
+      "id": "f-ua-y6r0zb4",
+      "userId": "user-test-tbzxEhPDIATgKXD1J5CBs",
+      "questionId": "f-q-u14gpym",
+      "selectedOption": "B",
+      "isCorrect": true,
+      "createdAt": "2026-07-06T13:14:36.336Z"
+    }
+  ]
+}

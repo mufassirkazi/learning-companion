@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tiun-sdk": {
+      "source": "tiun-app/skills",
+      "sourceType": "github",
+      "skillPath": "skills/tiun-sdk/SKILL.md",
+      "computedHash": "f4e63a7a2865726a78e7b0e164d13876d1472e93ddc10eec2314274a79a00c3a"
+    }
+  }
+}
