@@ -173,6 +173,10 @@ export default function Home() {
     const claimHistoryAndSubmit = async () => {
       if (!isAuthenticated || !pendingAnswers || !currentQuizId || !anonUserId) return;
 
+
+      setActiveScreen("LOADING_UPLOAD");
+  setUploadProgressMessage("Preparing your results...");
+  
       const token = await getVerificationToken();
       if (!token) return;
 
